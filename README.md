@@ -15,21 +15,27 @@ A collaborative space to share projects, exchange expertise, and foster continuo
 
 </div>
 
-| Team Member | Projects & Repositories |
-|:------------|:------------------------|
-| Nancy Fang | [View Projects](https://github.com/USERNAME1?tab=repositories) |
-| Joaquin Orellana | [View Projects](https://github.com/USERNAME2?tab=repositories) |
-| Atharva Navaratne | [View Projects](https://github.com/USERNAME3?tab=repositories) |
-| Nick DiPalo | [View Projects](https://github.com/USERNAME4?tab=repositories) |
-| Jonathan Hanna | [View Projects](https://github.com/USERNAME5?tab=repositories) |
-| Patrick Dries | [View Projects](https://github.com/USERNAME6?tab=repositories) |
-| Joseph James | [View Projects](https://github.com/USERNAME7?tab=repositories) |
-| Pawni Khurana | [View Projects](https://github.com/USERNAME8?tab=repositories) |
-| Chaitali Patil | [View Projects](https://github.com/USERNAME9?tab=repositories) |
-| Aman Gulati | [View Projects](https://github.com/USERNAME10?tab=repositories) |
-| Seth Monahan | [View Projects](https://github.com/USERNAME11?tab=repositories) |
-| Jessica Kottke | [View Projects](https://github.com/USERNAME12?tab=repositories) |
-| Sandeep Bansal | [View Projects](https://github.com/sandeepbansal0?tab=repositories) |
+## Team Members & Project Repositories
+
+Explore the projects and repositories supported by each team member.
+
+| **Team Member** | **Projects Supported** | **Projects & Repositories** |
+|---|---|---|
+| Nancy Fang | Direct Sales, OTM, Call Center Analytics | [View Projects](TEAM_REPOSITORY_URL) |
+| Joaquin Orellana | TBD | [View Projects](TEAM_REPOSITORY_URL) |
+| Atharva Navaratne | TBD | [View Projects](TEAM_REPOSITORY_URL) |
+| Nick DiPalo | TBD | [View Projects](TEAM_REPOSITORY_URL) |
+| Jonathan Hanna | TBD | [View Projects](TEAM_REPOSITORY_URL) |
+| Patrick Dries | Direct Sales, OTM, Call Center Analytics | [View Projects](TEAM_REPOSITORY_URL) |
+| Joseph James | TBD | [View Projects](TEAM_REPOSITORY_URL) |
+| Pawni Khurana | TBD | [View Projects](TEAM_REPOSITORY_URL) |
+| Chaitali Patil | TBD | [View Projects](TEAM_REPOSITORY_URL) |
+| Aman Gulati | TBD | [View Projects](TEAM_REPOSITORY_URL) |
+| Seth Monahan | TBD | [View Projects](TEAM_REPOSITORY_URL) |
+| Jessica Kottke | Direct Sales, OTM, Call Center Analytics | [View Projects](TEAM_REPOSITORY_URL) |
+| Sandeep Bansal | TBD | [View Projects](TEAM_REPOSITORY_URL) |
+
+*Note: Project assignments and repository links will be updated as team ownership and responsibilities are confirmed.*
 
 ---
 
